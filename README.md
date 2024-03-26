@@ -1,1 +1,1 @@
-# Thesis-Triangular-Pattern-in-Brain-Graphs
+# Triangular-Pattern-in-Brain-Graphs
